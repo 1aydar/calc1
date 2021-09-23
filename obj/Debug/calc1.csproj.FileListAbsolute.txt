@@ -1,0 +1,7 @@
+C:\Users\Aydar\Documents\projects\calc1\calc1\bin\Debug\calc1.exe.config
+C:\Users\Aydar\Documents\projects\calc1\calc1\bin\Debug\calc1.exe
+C:\Users\Aydar\Documents\projects\calc1\calc1\bin\Debug\calc1.pdb
+C:\Users\Aydar\Documents\projects\calc1\calc1\obj\Debug\calc1.csproj.AssemblyReference.cache
+C:\Users\Aydar\Documents\projects\calc1\calc1\obj\Debug\calc1.csproj.CoreCompileInputs.cache
+C:\Users\Aydar\Documents\projects\calc1\calc1\obj\Debug\calc1.exe
+C:\Users\Aydar\Documents\projects\calc1\calc1\obj\Debug\calc1.pdb
